@@ -1,6 +1,9 @@
 # EmotionRecognition
 ## This repository is derived by [lampadovnikita's archive](https://github.com/lampadovnikita/EmotionRecognition)
 
+This repository represents an android application performing recognition of facial emotions on an image.
+
+
 ### The parts that I changed..
 
 - My project is written by Jetpack Compose and Kotlin only. 
